@@ -1,5 +1,5 @@
 {
-  "name": "react-native-copilot",
+  "name": "muffatodesenvolvimento16/react-native-copilot",
   "version": "2.4.7",
   "description": "Make an interactive step by step tour guide for you react-native app",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohebifar/react-native-copilot.git"
+    "url": "git+https://github.com/muffatodesenvolvimento16/react-native-copilot.git"
   },
   "keywords": [
     "react-native",
